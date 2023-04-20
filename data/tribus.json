@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nombre": "Space Runners",
+        "nombreLider":"Daniel ",
+        "puntos":225.000
+    },
+    {
+        "id":2,
+        "nombre": "Moon Lords",
+        "nombreLider":"Juan Escalante",
+        "puntos": 200.000
+    },
+    {
+        "id":3,
+        "nombre": "Tribu de Andres",
+        "nombreLider":"Andres",
+        "puntos": 169.000
+    }
+]

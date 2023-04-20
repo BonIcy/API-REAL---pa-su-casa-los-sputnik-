@@ -1,0 +1,10 @@
+h1,
+p,
+.contenido {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+  font-family: "Ubuntu", sans-serif;
+}
